@@ -1,7 +1,8 @@
 # plc
 Product Life Cycle Model
 
-+ [Softreck Product Life Cycle Model ](https://softreck.github.io/plc/)
++ [Softreck Product Life Cycle Model](https://plc.softreck.dev/)
++ [Softreck Product Life Cycle Model on github](https://softreck.github.io/plc/)
 
 
 The Product Life Cycle Model (PLC model) is a theory which identifies the distinct stages affecting sales of a product, from the product’s inception until its retirement.
